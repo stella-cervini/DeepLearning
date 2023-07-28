@@ -1,2 +1,1 @@
-# IMAGE CAPTIONING
-## with VGG16 and GRU model (RNN
+# IMAGE CAPTIONING with VGG16 and GRU model (RNN
