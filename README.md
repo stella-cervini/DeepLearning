@@ -70,5 +70,3 @@ A BLEU score is considered acceptable if it is greater than 0.4. In this case, w
 
 ### Future developments
 We are aware of the fact that the results are not perfect. To obtain better results, transformers and the attention mechanism can be implemented.
-
-*Stella and Giuseppe*
